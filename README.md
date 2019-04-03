@@ -39,3 +39,5 @@ end
 
 
 Copyright 2016 London App Brewery
+
+This weather application is from the above company and uses Alamofire and SwiftyJSON. The Api is from openweather.org and if you want to try it out you need to have your own api key. 
